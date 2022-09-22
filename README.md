@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working to build 
+- 🌱 I’m currently learning machine learning.
 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanabdullah&theme=tokyonight&show_icons=true&count_private=true)
 <!--
 **abdulrahmanabdullah/abdulrahmanabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
