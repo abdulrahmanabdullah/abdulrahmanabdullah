@@ -8,7 +8,7 @@ I'm a full stack developer in Saudia Arabia 🇸🇦
 
 <div align="center">
 <h2>🏆 Github Profile Trophy</h2>
-<p align="center"
+<p align="center">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=abdulrahmanabdullah&column=9&theme=flat&no-frame=true&margin-w=25&margin-h=25"/>
 </p>
 
