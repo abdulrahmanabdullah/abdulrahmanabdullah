@@ -3,7 +3,7 @@
 <h3 align="center">
  🚀 About Me
 </h3>
-<h4>I'm a full stack developer in Saudia Arabia 🇸🇦 who loves building helpful softwares and publish it.</h4>
+<h4 align="center">I'm a full stack developer in Saudia Arabia 🇸🇦 who loves building helpful softwares and publish it.</h4>
 
 <div align="center">
 <h2>🏆 Github Profile Trophy</h2>
