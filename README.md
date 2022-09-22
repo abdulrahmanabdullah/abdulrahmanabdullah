@@ -1,10 +1,12 @@
 <h2 align="center">Hi there 👋, I'm Abdulrahman!</h2>
 
+<div align="center">
 ## 🚀 About Me
 
 I'm a full stack developer in Saudia Arabia 🇸🇦 
+</div>
 
-
+<div align="center">
 <h2>🏆 Github Profile Trophy</h2>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=abdulrahmanabdullah&column=9&theme=flat&no-frame=true&margin-w=25&margin-h=25"/>
 
@@ -29,3 +31,4 @@ I'm a full stack developer in Saudia Arabia 🇸🇦
 
 ![](https://komarev.com/ghpvc/?username=abdulrahmanabdullah)
 
+</div>
