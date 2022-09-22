@@ -1,10 +1,9 @@
 <h2 align="center">Hi there 👋, I'm Abdulrahman!</h2>
 
-<div align="center">
+<h3 align="center">
 ## 🚀 About Me
-
-I'm a full stack developer in Saudia Arabia 🇸🇦 
-</div>
+I'm a full stack developer in Saudia Arabia 🇸🇦 who loves building helpful softwares and publish it.
+</h3>
 
 <div align="center">
 <h2>🏆 Github Profile Trophy</h2>
